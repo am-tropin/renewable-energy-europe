@@ -17,5 +17,5 @@ Libraries: statsmodels, datetime, scikit-learn, matplotlib, seaborn, pandas, num
 
 ## Machine Learning problems
 
-- The problem is Time Series Forecasting for solar energy generation in Germany for 2021-2022 based on 2015-2020 data. The given problem was solved by using a **Seasonal ARIMA model** from **statsmodels** with accuracy of **81%**. The result is in the [DE_solar_generation.ipynb](https://github.com/am-tropin/renewable-energy-europe/blob/main/DE_solar_generation.ipynb) notebook.
+- The problem is Time Series Forecasting for solar energy generation in Germany for 2021-2022 based on 2015-2020 data. The given problem was solved by using a **Seasonal ARIMA model** from **statsmodels** with accuracy of **82%**. The result is in the [DE_solar_generation.ipynb](https://github.com/am-tropin/renewable-energy-europe/blob/main/DE_solar_generation.ipynb) notebook.
 
